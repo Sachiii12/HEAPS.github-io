@@ -1,0 +1,18 @@
+SMAP
+AllCutoff_jsp.java
+JSP
+*S JSP
+*F
++ 0 AllCutoff.jsp
+AllCutoff.jsp
+*L
+5,67:45
+72,10:113
+81,17:123
+98,3:141
+100,2:144
+102,4:146,3
+106,3:158
+108,9:161
+116,10:170
+*E
